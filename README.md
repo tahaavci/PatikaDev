@@ -1,2 +1,4 @@
-## Patika.dev eğitim konuları ve ödevleri
+## Patika.dev 
+
+### Eğitim Konuları ve Ödevleri
 
