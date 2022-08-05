@@ -2,7 +2,7 @@ package java101.CalcHypo;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
     
 
     public static void main(String[] args) {
@@ -18,6 +18,8 @@ public class main {
    
         double c = Math.sqrt(Math.pow(a,2)+Math.pow(b, 2));
         System.out.println("Uzun Kenar :"+c);
+
+        sc.close();
     }
 
 }

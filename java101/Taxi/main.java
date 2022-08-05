@@ -2,7 +2,7 @@ package java101.Taxi;
 
 import java.util.Scanner;
 
-public class main {
+public class Main {
 
     public static void main(String[] args) {
         
@@ -12,7 +12,7 @@ public class main {
 
             System.out.println("Ücret : "+taxi(km));
 
-
+            sc.close();
     }
 
 

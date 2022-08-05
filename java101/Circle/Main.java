@@ -2,8 +2,6 @@ package java101.Circle;
 
 import java.util.Scanner;
 
-import java101.CalcHypo.main;
-
 public class Main {
     
     
@@ -23,7 +21,7 @@ public class Main {
         double sum = Math.PI * Math.pow(r, 2)*a/360;
 
         System.out.println("Alan : "+sum);
-
+        sc.close();
     }
     
 
